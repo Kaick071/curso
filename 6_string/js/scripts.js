@@ -1,7 +1,7 @@
-var nome = "Matheus";
-var sobrenome = "Battisti";
+var nome = "kaick";
+var sobrenome = "barbosa";
 
-var nomeCompleto = nome + " " + sobrenome;
+var nome = nomeCompleto = nome + " " + sobrenome;
 
 console.log(nome);
 console.log(typeof nome);
@@ -12,15 +12,19 @@ console.log(nomeCompleto);
 
 console.log(typeof "5.292929");
 
-var frase = 'Esta é uma frase complexa';
+var nick = "teste";
+var sobrenick = "oliveira";
 
+var nick = nickcompleto = nick + " " + sobrenick;
+
+console.log(nickcompleto);
+
+var frase = 'Esta é uma frase complexa';
 console.log(frase);
-console.log(typeof frase);
+console.log(typeof frase)
 
 console.log(nome + " " + frase);
 
-document.write('Ele disse: "Olá"');
+document.write("olá");
 
-document.write("Ele disse: 'Olá'");
-
-console.log("Este número: " + nome);
+console.log('Ele disse:' + " " + frase + " " + nomeCompleto);

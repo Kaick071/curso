@@ -1,4 +1,4 @@
-var arr = [5, "Matheus", true, {teste: 1, teste: 2}]; // obj => {}
+var arr = [5, "kaick", true, {teste: 1, teste: 2}]; obj => {}
 
 console.log(arr);
 

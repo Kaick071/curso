@@ -1,15 +1,14 @@
-// Hoisting - içamento
-console.log(sobrenome);
-console.log(numero);
-
-var nome = null;
-var sobrenome = "Battisti";
-
-console.log(nome);
-console.log(sobrenome);
-
-nome = "Matheus";
-
-console.log(nome);
-
+//HOisting
 var numero = 5;
+var nome = "null"
+var sobrenome = "Barbosa"
+
+
+console.log(numero)
+console.log(nome);
+console.log(sobrenome)
+
+nome = "kaick";
+
+console.log(nome);
+

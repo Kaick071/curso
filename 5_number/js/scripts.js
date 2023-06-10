@@ -1,12 +1,14 @@
 var numero = 5;
 
-console.log(numero);
-console.log(typeof numero);
+NaN = 'NaN';
+
+console.log(typeof numero)
+console.log(numero)
 
 var float = 5.32;
 
 console.log(float);
-console.log(typeof float);
+console.log(typeof float)
 
 var textoComNumero = '523';
 

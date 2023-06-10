@@ -1,24 +1,16 @@
-console.log("Primeiro");
+console.log("Primeiro")
 
-console.log("Último");
+console.log("Último")
 
-console.log("Mais um console.log");
-
-// Declara uma variável
-var a = 1;
+console.log("Mais um console.log")
 
 a = 'teste';
 
-console.log(a);
+console.log(a)
 
-// Este é um comentário
+ks = "kaick"
 
-/*
-  Este
-  é
-  um
-  comentário
-  de
-  múltiplas
-  linhas
-*/
+console.log(ks);
+
+//EWste é o comentario
+
